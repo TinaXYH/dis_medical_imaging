@@ -1,0 +1,12 @@
+# Ignore Python/Notebook and macOS temp files
+env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignore specific subfolders inside data/
+data/Module3/
+
+# Explicitly include Module2
+!data/Module1/
+!data/Module2/

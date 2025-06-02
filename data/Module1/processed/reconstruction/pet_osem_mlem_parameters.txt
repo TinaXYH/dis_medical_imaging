@@ -1,0 +1,11 @@
+OSEM parameters:
+  Tested gamma values: [0.01, 0.06, 0.1, 0.5, 1.0]
+  Optimal gamma: 1.0
+  Optimal iterations: 30
+  Forward projection error: 0.564034
+
+MLEM parameters:
+  Tested gamma values: [0.01, 0.05, 0.2, 0.5, 1.0]
+  Optimal gamma: 1.0
+  Optimal iterations: 200
+  Forward projection error: 0.379563

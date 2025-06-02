@@ -1,0 +1,41 @@
+OS-SART Grid Search Parameters:
+Gamma values: [0.001, 0.005, 0.01, 0.05, 0.1]
+Iteration values: [5, 10, 20, 30, 50, 100, 200]
+Number of subsets: 10
+
+Parameter combinations and final losses:
+gamma=0.001, iterations=5: final_loss=0.205928
+gamma=0.001, iterations=10: final_loss=0.124035
+gamma=0.001, iterations=20: final_loss=0.086159
+gamma=0.001, iterations=30: final_loss=0.071411
+gamma=0.001, iterations=50: final_loss=0.057809
+gamma=0.001, iterations=100: final_loss=0.043493
+gamma=0.001, iterations=200: final_loss=0.032371
+gamma=0.005, iterations=5: final_loss=0.077833
+gamma=0.005, iterations=10: final_loss=0.057938
+gamma=0.005, iterations=20: final_loss=0.043651
+gamma=0.005, iterations=30: final_loss=0.036641
+gamma=0.005, iterations=50: final_loss=0.029466
+gamma=0.005, iterations=100: final_loss=0.022269
+gamma=0.005, iterations=200: final_loss=0.017277
+gamma=0.01, iterations=5: final_loss=0.058359
+gamma=0.01, iterations=10: final_loss=0.043705
+gamma=0.01, iterations=20: final_loss=0.032472
+gamma=0.01, iterations=30: final_loss=0.027330
+gamma=0.01, iterations=50: final_loss=0.022261
+gamma=0.01, iterations=100: final_loss=0.017291
+gamma=0.01, iterations=200: final_loss=0.014577
+gamma=0.05, iterations=5: final_loss=0.031596
+gamma=0.05, iterations=10: final_loss=0.022689
+gamma=0.05, iterations=20: final_loss=0.017873
+gamma=0.05, iterations=30: final_loss=0.016135
+gamma=0.05, iterations=50: final_loss=0.014918
+gamma=0.05, iterations=100: final_loss=0.013905
+gamma=0.05, iterations=200: final_loss=0.013303
+gamma=0.1, iterations=5: final_loss=0.025184
+gamma=0.1, iterations=10: final_loss=0.019310
+gamma=0.1, iterations=20: final_loss=0.016521
+gamma=0.1, iterations=30: final_loss=0.016422
+gamma=0.1, iterations=50: final_loss=0.015622
+gamma=0.1, iterations=100: final_loss=0.014392
+gamma=0.1, iterations=200: final_loss=0.013754

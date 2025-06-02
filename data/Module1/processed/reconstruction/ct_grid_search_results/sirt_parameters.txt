@@ -1,0 +1,40 @@
+SIRT Grid Search Parameters:
+Gamma values: [5e-05, 0.0001, 0.001, 0.002, 0.003]
+Iteration values: [5, 10, 20, 30, 50, 100, 200]
+
+Parameter combinations and final losses:
+gamma=5e-05, iterations=5: final_loss=0.861508
+gamma=5e-05, iterations=10: final_loss=0.746904
+gamma=5e-05, iterations=20: final_loss=0.574232
+gamma=5e-05, iterations=30: final_loss=0.457095
+gamma=5e-05, iterations=50: final_loss=0.322557
+gamma=5e-05, iterations=100: final_loss=0.197908
+gamma=5e-05, iterations=200: final_loss=0.114155
+gamma=0.0001, iterations=5: final_loss=0.743354
+gamma=0.0001, iterations=10: final_loss=0.569621
+gamma=0.0001, iterations=20: final_loss=0.373862
+gamma=0.0001, iterations=30: final_loss=0.281389
+gamma=0.0001, iterations=50: final_loss=0.197123
+gamma=0.0001, iterations=100: final_loss=0.113829
+gamma=0.0001, iterations=200: final_loss=0.066969
+gamma=0.001, iterations=5: final_loss=0.184603
+gamma=0.001, iterations=10: final_loss=0.108066
+gamma=0.001, iterations=20: final_loss=0.065656
+gamma=0.001, iterations=30: final_loss=0.050924
+gamma=0.001, iterations=50: final_loss=0.038969
+gamma=0.001, iterations=100: final_loss=0.029635
+gamma=0.001, iterations=200: final_loss=0.022853
+gamma=0.002, iterations=5: final_loss=0.102374
+gamma=0.002, iterations=10: final_loss=0.064327
+gamma=0.002, iterations=20: final_loss=0.043049
+gamma=0.002, iterations=30: final_loss=0.035877
+gamma=0.002, iterations=50: final_loss=0.029587
+gamma=0.002, iterations=100: final_loss=0.022835
+gamma=0.002, iterations=200: final_loss=0.017153
+gamma=0.003, iterations=5: final_loss=1.348113
+gamma=0.003, iterations=10: final_loss=2.012295
+gamma=0.003, iterations=20: final_loss=4.493582
+gamma=0.003, iterations=30: final_loss=10.036923
+gamma=0.003, iterations=50: final_loss=50.076954
+gamma=0.003, iterations=100: final_loss=2784.428594
+gamma=0.003, iterations=200: final_loss=8608600.690780

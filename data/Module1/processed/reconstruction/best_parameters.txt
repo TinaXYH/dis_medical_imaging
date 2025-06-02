@@ -1,0 +1,7 @@
+Best Parameters Based on Lowest Final Loss:
+OS-SART: gamma=0.05, iterations=200, final_loss=0.013303
+SIRT: gamma=0.002, iterations=200, final_loss=0.017153
+
+Target Parameters for Visualization:
+OS-SART: gamma=0.05, iterations=50
+SIRT: gamma=0.002, iterations=200
